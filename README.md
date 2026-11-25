@@ -79,4 +79,4 @@ python tests/e2e_real.py                  # 真实端到端（需 ffmpeg、转�
 - 版本差异与交接：[docs/VERSION_NOTES.md](docs/VERSION_NOTES.md)、[docs/HANDOVER.md](docs/HANDOVER.md)
 - 验证报告与后续清单：[docs/VALIDATION.md](docs/VALIDATION.md)、[docs/FOLLOWUP_REVIEW.md](docs/FOLLOWUP_REVIEW.md)
 
-**作者 / Author**：[xiaohui5206](https://github.com/xiaohui5206) ｜ License: [MIT](LICENSE)
+**作者 / Author**：[mengj0830-rgb](https://github.com/mengj0830-rgb) ｜ License: [MIT](LICENSE)
